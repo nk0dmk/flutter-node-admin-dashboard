@@ -27149,7 +27149,7 @@ aM3(a){return a},
 aOy(a){return a},
 aug(){var s,r=$.wW().GS$
 r===$&&A.b()
-r.pG$="http://localhost:8080/api"
+r.pG$="https://flutter-node-admin-dashboard.vercel.app/api"
 s=A.cn(J.bd($.pr.aU().a,"token"))
 r.sU6(0,A.ax(["x-token",s==null?"":s],t.N,t.z))},
 rp(a){return A.aIS(a)},

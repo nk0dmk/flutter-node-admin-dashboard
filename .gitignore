@@ -3,3 +3,6 @@ node_modules/
 uploads/productos/**.*
 uploads/usuarios/**.*
 yarn.lock
+# flutter builds
+.last_build_id
+public/*.back
